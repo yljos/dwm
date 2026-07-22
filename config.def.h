@@ -30,6 +30,7 @@ static const Rule rules[] = {
 	{ "firefox",    NULL,       NULL,       1 << 0,       0,           -1 },
 	{ "xfreerdp",   NULL,       NULL,       1 << 2,       0,           -1 },
 	{ "alacritty",  NULL,       NULL,       1 << 0,       0,           -1 },
+	{ "Minecraft",  NULL,       NULL,       1 << 4,       0,           -1 },
 };
 
 /* layout(s) */
